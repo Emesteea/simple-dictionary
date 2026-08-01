@@ -29,6 +29,7 @@ main {
   padding: 10px;
   gap: 10px;
   overflow-y: scroll;
+  scrollbar-width: none;
 }
 footer {
   width: 100%;
@@ -60,6 +61,7 @@ footer {
   gap: 15px;
   padding: 5px;
   text-align: justify;
+  list-style-type: circle;
 }
 
 .container ul li {
